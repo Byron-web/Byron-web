@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Byron-web
 - 👀 I’m interested in learning Angular and Typescript as well as C#
-- 🌱 I’m currently learning Angular and Typescript
-- 💞️ I’m looking to collaborate on Angular projects
+- 🌱 I’m currently learning Angular, Typescript, and the MERN stack
+- 💞️ I’m looking to collaborate on Angular and React projects
 - 📫 How to reach me buzzonair92@gmail.com
 
 <!---
